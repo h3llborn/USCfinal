@@ -1,0 +1,16 @@
+body {
+	padding-top: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
